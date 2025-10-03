@@ -1,5 +1,5 @@
 [general]
 email = "thongprasoet123@gmail.com"
 
-[runtime]git add .streamlit/config.toml
+[runtime]
 python_version = "3.11"
